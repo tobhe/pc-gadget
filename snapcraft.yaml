@@ -2,9 +2,9 @@ name: pc
 adopt-info: pc
 type: gadget
 base: core22
-summary: Classic PC gadget for generic amd64 devices
+summary: Classic PC gadget for Apple Silicon arm64 devices
 description: |
-    This gadget enables booting generic PC amd64 with classic Ubuntu
+    This gadget enables booting Apple Silicon arm64 with classic Ubuntu
 confinement: strict
 grade: stable
 
